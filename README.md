@@ -28,7 +28,7 @@ The Grocery Web Application is an online platform designed to make grocery shopp
 * **Backend**: Flask (Python), SQLite (Database)
 * **Development Tools**: Postman (for API testing), Git (version control)
 
-## **How to run**
+## **How To Run**
 
 The website isn't deployed, but if you're interested in running it here are the steps below:
 
