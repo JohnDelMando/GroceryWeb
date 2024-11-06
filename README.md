@@ -4,11 +4,11 @@ The Grocery Web Application is an online platform designed to make grocery shopp
 
 ## 📋 **Features**
 
-    **Meal Planning**: Users can select a product (e.g., chicken) and the system will provide meal suggestions for it in the meal planning page.
-    **User and Employee Sides**: Separate interfaces for users and employees with distinct functionalities.
-    **Account Creation**: Users can create an account, upload a profile picture, and manage their personal information.
-   ** Homepage Management**: Users can add products to their homepage for easy access and re-purchase in the future.
-    **Purchase History**: Users can view their past purchases for easy reordering.
+* **Meal Planning**: Users can select a product (e.g., chicken) and the system will provide meal suggestions for it in the meal planning page.
+* **User and Employee Sides**: Separate interfaces for users and employees with distinct functionalities.
+***Account Creation**: Users can create an account, upload a profile picture, and manage their personal information.
+* **Homepage Management**: Users can add products to their homepage for easy access and re-purchase in the future.
+* **Purchase History**: Users can view their past purchases for easy reordering.
 
 ## 💡 **What I Learned**
 
