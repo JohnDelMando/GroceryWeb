@@ -35,3 +35,99 @@ Technologies Used
     Development Tools:
         Postman (for API testing)
         Git (version control)
+
+**How to run**
+
+The website isn't deployed, but if you're interested in running it here are the steps below:
+
+**Installation**
+
+1. **Clone the repository**:
+```
+git clone https://github.com/repo-name.git
+```
+2. **Install Dependencies**:
+
+* Install gh-pages:
+
+npm install gh-pages --save-dev
+
+* Install axios:
+
+    npm install axios
+
+3. Move to the Backend Directory:
+
+cd backend
+
+Run the Database:
+
+python main.py
+
+Start the Application:
+
+    Open a different terminal, navigate to the main application directory, and run:
+
+        npm start
+
+By following these steps, you have successfully pulled the files, run the database, and started the application.
+Additional Development Commands
+
+Here are some additional commands we used during the development process:
+
+    Install pip:
+
+python get-pip.py
+
+Install pipenv:
+
+pip install pipenv
+
+or
+
+py -m pip install pipenv
+
+Set up the virtual environment:
+
+pipenv shell
+
+Install dependencies:
+
+pip install python_decouple flask flask_restx flask_sqlalchemy flask_jwt_extended flask_migrate
+
+Manage dependencies:
+
+pip freeze > requirements.txt
+
+Set up Flask app:
+
+$env:FLASK_APP = 'main.py'
+
+Initialize the migration repository:
+
+flask db init
+
+Initialize the database:
+
+flask shell
+
+Inside the Flask shell, run:
+
+db.create_all()
+
+Create a migration:
+
+flask db migrate -m "message"
+
+Apply the migration:
+
+flask db upgrade
+
+Start the Flask server:
+
+python main.py
+
+Initialize the webpage:
+
+npm start
+
