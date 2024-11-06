@@ -66,7 +66,7 @@ By following these steps, you have successfully pulled the files, run the databa
 
 ### **Additional Development Commands**
 
-Here are some additional commands we used during the development process:
+Here are some additional commands was used during the development process:
 
 **Install pip**:
 ```
