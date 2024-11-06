@@ -1,4 +1,4 @@
-# **Grocery Web Application**
+# **Grocery Web Application Project**
 
 The Grocery Web Application is an online platform designed to make grocery shopping easier for users. It allows users to browse products, add them to their cart, and checkout seamlessly. The application also includes a meal planning feature where users can discover meal ideas based on the products they are interested in.
 
