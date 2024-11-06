@@ -36,7 +36,7 @@ The website isn't deployed, but if you're interested in running it here are the 
 
 1. **Clone the repository**:
 ```
-git clone https://github.com/repo-name.git
+git clone https://github.com/JohnDelMando/GroceryWeb.git
 ```
 2. **Install Dependencies**:
 
