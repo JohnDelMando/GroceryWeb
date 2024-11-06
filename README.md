@@ -36,11 +36,11 @@ Technologies Used
         Postman (for API testing)
         Git (version control)
 
-**How to run**
+## **How to run**
 
 The website isn't deployed, but if you're interested in running it here are the steps below:
 
-**Installation**
+### **Installation**
 
 1. **Clone the repository**:
 ```
@@ -49,29 +49,30 @@ git clone https://github.com/repo-name.git
 2. **Install Dependencies**:
 
 * Install gh-pages:
-
+```
 npm install gh-pages --save-dev
-
+```
 * Install axios:
-
+```
     npm install axios
-
-3. Move to the Backend Directory:
-
+```
+3. **Move to the Backend Directory**:
+```
 cd backend
-
-Run the Database:
-
+```
+4. **Run the Database**:
+```
 python main.py
+```
+5. **Start the Application**:
 
-Start the Application:
-
-    Open a different terminal, navigate to the main application directory, and run:
-
+*Open a different terminal, navigate to the main application directory, and run:
+```
         npm start
-
+```
 By following these steps, you have successfully pulled the files, run the database, and started the application.
-Additional Development Commands
+
+### **Additional Development Commands**
 
 Here are some additional commands we used during the development process:
 
